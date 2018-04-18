@@ -6,3 +6,7 @@ Neste curso é ensinado como contribuir com projetos de código aberto.
 Link para o curo [Python Pro](http://www.python.pro.br)
 
 Link para o curso [Python Pro](http://www.python.pro.br)
+
+Tópicos a serem abordados
+ 1. Git
+ 2. Virtualenv
