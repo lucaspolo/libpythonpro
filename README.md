@@ -10,3 +10,4 @@ Link para o curso [Python Pro](http://www.python.pro.br)
 Tópicos a serem abordados
  1. Git
  2. Virtualenv
+ 3. Pip
